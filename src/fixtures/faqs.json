@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "header": "What is Groupwatch?",
+        "body": "Groupwatch is a streaming service that allows you to watch a wide array of TV shows or programmes with anyone else."
+    },
+    {
+        "id": 2,
+        "header": "How much does Groupwatch cost?",
+        "body": "The best part is, Groupwatch is free! (just kidding)"
+    },
+    {
+        "id": 3,
+        "header": "Where can I watch, and who can I watch with?",
+        "body": "Watch anywhere, anytime, with anyone!"
+    },
+    {
+        "id": 4,
+        "header": "How do I cancel?",
+        "body": "Why would you ever want to? It's free!"
+    },
+    {
+        "id": 5,
+        "header": "What can I watch on Groupwatch?",
+        "body": "Check out our library of vast treasures for you to watch!"
+    }
+]
